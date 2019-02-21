@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//reroutedjourney.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://reroutedjourney.com/</loc>
+		<lastmod>2014-10-04T23:44:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/splashing-safari-at-the-kalahari-in-sandusky-ohio/</loc>
+		<lastmod>2012-05-02T13:12:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/an-experimental-mutiny-against-excessive-crap-i-own/</loc>
+		<lastmod>2012-05-02T21:41:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/Bookshelf.jpg</image:loc>
+			<image:title><![CDATA[Bookshelf]]></image:title>
+			<image:caption><![CDATA[Ikea Colorful Bookshelf]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/shelf-and-shelf-.jpg</image:loc>
+			<image:title><![CDATA[shelf and shelf]]></image:title>
+			<image:caption><![CDATA[shelf and shelf]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/Boxes.jpg</image:loc>
+			<image:title><![CDATA[Boxes]]></image:title>
+			<image:caption><![CDATA[Boxes]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/Bookshelf.jpg</image:loc>
+			<image:title><![CDATA[Bookshelf]]></image:title>
+			<image:caption><![CDATA[Ikea Colorful Bookshelf]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/giving-away-books/</loc>
+		<lastmod>2012-05-09T13:22:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/05.jpg</image:loc>
+			<image:title><![CDATA[Giving Away Books]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/not-tea-but-tequila-tropics/</loc>
+		<lastmod>2012-05-14T22:21:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/02/418454_10150751157283289_678288288_12424699_281564836_n.jpeg</image:loc>
+			<image:title><![CDATA[418454_10150751157283289_678288288_12424699_281564836_n]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/03/2864_114137453288_678288288_2637991_5463453_n.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/03/14360_236278738288_678288288_4353163_4877934_n.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/windy-city-warm-tea-intelligentsia-coffee/</loc>
+		<lastmod>2012-05-14T22:21:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/02/4461429858_2455fe0d15.jpeg</image:loc>
+			<image:title><![CDATA[4461429858_2455fe0d15]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/a-chicagoans-love-for-argo-tea/</loc>
+		<lastmod>2012-05-14T22:24:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/02/5674130665.jpeg</image:loc>
+			<image:title><![CDATA[5674130665]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/khara-ledonne-art-around-your-neck/</loc>
+		<lastmod>2012-05-14T22:26:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/02/octopus-175x175.jpeg</image:loc>
+			<image:title><![CDATA[octopus-175x175]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/art-nouveau-tattoo/</loc>
+		<lastmod>2012-05-14T22:29:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/02/Photo-on-2012-02-21-at-20.jpeg</image:loc>
+			<image:title><![CDATA[Photo-on-2012-02-21-at-20]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/living-in-lakeview-at-the-belmont/</loc>
+		<lastmod>2012-05-14T22:40:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/02/30325_468777298288_678288288_6111315_5778761_n.jpeg</image:loc>
+			<image:title><![CDATA[30325_468777298288_678288288_6111315_5778761_n]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/photo-loco-photography-inspired-items-im-digging/</loc>
+		<lastmod>2012-05-14T22:42:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/03/camera-cookie-cutters.jpeg</image:loc>
+			<image:title><![CDATA[camera-cookie-cutters]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/isle-of-mujeres-how-to-spend-a-day/</loc>
+		<lastmod>2012-05-14T22:52:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/03/427461_10150751177398289_678288288_12424811_1286459955_n2.jpeg</image:loc>
+			<image:title><![CDATA[427461_10150751177398289_678288288_12424811_1286459955_n2]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/travel-underwear-for-men/</loc>
+		<lastmod>2012-05-16T17:29:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/exofficio_mens_underwear_packed.jpg</image:loc>
+			<image:title><![CDATA[Exofficio Mens Underwear Packed]]></image:title>
+			<image:caption><![CDATA[Exofficio Mens Underwear Packed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/exofficio_mens_underwear_packed.jpg</image:loc>
+			<image:title><![CDATA[ExOfficio Mens Underwear Packed]]></image:title>
+			<image:caption><![CDATA[ExOfficio Mens Underwear Packed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/exofficio_mens_underwear_out.jpg</image:loc>
+			<image:title><![CDATA[ExOfficio Mens Underwear Out]]></image:title>
+			<image:caption><![CDATA[ExOfficio Mens Underwear Out]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/i-never-dreamt-of-wearing-one-pair-of-underwear-for-a-year-or-two/</loc>
+		<lastmod>2012-05-16T17:30:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/exofficio_womens_underwear_packed.jpg</image:loc>
+			<image:title><![CDATA[Exofficio Womens Underwear Packed]]></image:title>
+			<image:caption><![CDATA[Exofficio Womens Underwear Packed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/exofficio_womens_underwear_packed.jpg</image:loc>
+			<image:title><![CDATA[Exofficio Womens Underwear Packed]]></image:title>
+			<image:caption><![CDATA[Exofficio Womens Underwear Packed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/exofficio_womens_underwear_out.jpg</image:loc>
+			<image:title><![CDATA[Exofficio Womens Underwear Out]]></image:title>
+			<image:caption><![CDATA[Exofficio Womens Underwear Out]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/what-clothing-do-you-pack-for-an-indefinite-trip-across-the-world/</loc>
+		<lastmod>2012-05-19T02:43:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/clothing-small.jpg</image:loc>
+			<image:title><![CDATA[clothing small]]></image:title>
+			<image:caption><![CDATA[Clothing Racks]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/clothing-small.jpg</image:loc>
+			<image:title><![CDATA[clothing small]]></image:title>
+			<image:caption><![CDATA[Clothing Racks]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/becoming-a-digital-nomad/</loc>
+		<lastmod>2012-05-19T13:08:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/highway_coast.jpg</image:loc>
+			<image:title><![CDATA[highway_coast]]></image:title>
+			<image:caption><![CDATA[bright and happy highway near the coast]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/many_coins.jpg</image:loc>
+			<image:caption><![CDATA[many different coins]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/highway_coast.jpg</image:loc>
+			<image:caption><![CDATA[bright and happy highway near the coast]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/what-to-do-with-city-kitty/</loc>
+		<lastmod>2012-05-20T12:03:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/City-Kity-Older.jpg</image:loc>
+			<image:title><![CDATA[City Kity Older]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/60542_10150106283038289_678288288_7345775_1230048_n.jpeg</image:loc>
+			<image:title><![CDATA[City Kitty Close Up Baby]]></image:title>
+			<image:caption><![CDATA[City Kitty close up baby]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/33486_10150112684168289_678288288_7471042_8304109_n.jpeg</image:loc>
+			<image:title><![CDATA[Where' sCity ]]></image:title>
+			<image:caption><![CDATA[Where's City Kity Box]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/40148_10150112684093289_678288288_7471038_5342590_n.jpeg</image:loc>
+			<image:title><![CDATA[Kitty On Laptop ]]></image:title>
+			<image:caption><![CDATA[Kitty On Laptop ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/60907_10150106283538289_678288288_7345802_5340364_n.jpeg</image:loc>
+			<image:title><![CDATA[Kitty Looking Up ]]></image:title>
+			<image:caption><![CDATA[City Kitty Looking Up ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/40148_10150112684103289_678288288_7471039_1119792_n.jpeg</image:loc>
+			<image:title><![CDATA[Unhappy First Bath Kitty]]></image:title>
+			<image:caption><![CDATA[Unhappy First Bath Kitty ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/64826_10150112683983289_678288288_7471035_612121_n.jpeg</image:loc>
+			<image:title><![CDATA[Kitty In Box]]></image:title>
+			<image:caption><![CDATA[Kitty In Box]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/59902_10150107170193289_678288288_7359363_6750766_n.jpeg</image:loc>
+			<image:title><![CDATA[Kitty On Head]]></image:title>
+			<image:caption><![CDATA[City On Head]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/64333_10150112683878289_678288288_7471028_5792257_n.jpeg</image:loc>
+			<image:title><![CDATA[Where's Kitty CLothing ]]></image:title>
+			<image:caption><![CDATA[Where's Kitty Clothing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/extensive-london-list/</loc>
+		<lastmod>2012-05-22T19:00:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/phone-booth-small.jpg</image:loc>
+			<image:title><![CDATA[phone booth small]]></image:title>
+			<image:caption><![CDATA[Red Phone Booth]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/underground-small.jpg</image:loc>
+			<image:title><![CDATA[underground small]]></image:title>
+			<image:caption><![CDATA[London Underground]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/extract-venom-snake-bite/</loc>
+		<lastmod>2012-05-23T17:02:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/0.jpg</image:loc>
+			<image:title><![CDATA[How To Extract Venom From A Snake Bite]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/cutting-hair/</loc>
+		<lastmod>2012-05-24T16:59:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/6140_158471948288_678288288_3438270_3464413_n.jpeg</image:loc>
+			<image:title><![CDATA[long hair picture]]></image:title>
+			<image:caption><![CDATA[Tiffany's Long Hair]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/2569_84869433288_678288288_2292367_6453449_n.jpeg</image:loc>
+			<image:title><![CDATA[Tiff nose ring ]]></image:title>
+			<image:caption><![CDATA[Tiffany with nose ring ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/2123_73348268288_678288288_2026006_7225_n.jpeg</image:loc>
+			<image:title><![CDATA[Yoga Pose]]></image:title>
+			<image:caption><![CDATA[Yoga Pose Red Hair ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/05/6140_158471948288_678288288_3438270_3464413_n.jpeg</image:loc>
+			<image:title><![CDATA[long hair picture]]></image:title>
+			<image:caption><![CDATA[Tiffany's Long Hair]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/we-would-love-to-win-humbly-appreciate-your-help-i-am-intrepid-competition/</loc>
+		<lastmod>2012-05-24T23:33:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/how-i-get-all-of-my-favorite-magazines-free-enjoy-melting-pot-under-20/</loc>
+		<lastmod>2012-06-14T20:01:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/06/make-up.jpg</image:loc>
+			<image:title><![CDATA[make up]]></image:title>
+			<image:caption><![CDATA[make up]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/06/mail-box.jpg</image:loc>
+			<image:title><![CDATA[mail box]]></image:title>
+			<image:caption><![CDATA[mail box]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/06/make-up.jpg</image:loc>
+			<image:title><![CDATA[make up]]></image:title>
+			<image:caption><![CDATA[make up]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/06/meal.jpg</image:loc>
+			<image:title><![CDATA[meal]]></image:title>
+			<image:caption><![CDATA[meal]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/why-india-i-wouldnt-touch-that-place-with-a-ten-foot-pole/</loc>
+		<lastmod>2012-06-15T21:19:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/dustin_haiti.jpg</image:loc>
+			<image:title><![CDATA[Dustin Haiti]]></image:title>
+			<image:caption><![CDATA[Dustin posing with children in Haiti]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/the_belmont.jpg</image:loc>
+			<image:caption><![CDATA[The Belmont Apartments ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/africa_baby.jpg</image:loc>
+			<image:caption><![CDATA[An African Baby Being Held]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/dustin_haiti.jpg</image:loc>
+			<image:caption><![CDATA[Dustin posing with children in Haiti]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/dustin_tiffany_engaged.jpg</image:loc>
+			<image:caption><![CDATA[Dustin and Tiffany walking with a bike]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/dustin_jon.jpg</image:loc>
+			<image:caption><![CDATA[Dustin and Jon in a canoe with a tent.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/04/jon_tattoo.jpg</image:loc>
+			<image:caption><![CDATA[Jon showing his hope tattoo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/chopped-locks-a-donation-complete/</loc>
+		<lastmod>2012-06-15T21:54:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/06/Photo-on-2012-06-15-at-17.36.jpg</image:loc>
+			<image:title><![CDATA[Short hair ]]></image:title>
+			<image:caption><![CDATA[Short Hair]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/when-god-calls-but-puts-you-on-hold/</loc>
+		<lastmod>2012-08-09T19:41:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/peach-wine/</loc>
+		<lastmod>2012-08-18T17:09:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/08/DSC_0073.jpg</image:loc>
+			<image:title><![CDATA[fruit infused wine]]></image:title>
+			<image:caption><![CDATA[fruit infused wine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/08/DSC_0076.jpg</image:loc>
+			<image:title><![CDATA[exploring the wine shop]]></image:title>
+			<image:caption><![CDATA[exploring the wine shop]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/08/DSC_0073.jpg</image:loc>
+			<image:title><![CDATA[fruit infused wine]]></image:title>
+			<image:caption><![CDATA[fruit infused wine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/08/DSC_0080.jpg</image:loc>
+			<image:title><![CDATA[Barley Hopsters Beer Culture]]></image:title>
+			<image:caption><![CDATA[Barley Hopsters Beer Culture]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/08/DSC_0069.jpg</image:loc>
+			<image:title><![CDATA[Celebrating Our Peach Wine Purchase]]></image:title>
+			<image:caption><![CDATA[Celebrating Our Peach Wine Purchase]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/top-ten-las-vegas/</loc>
+		<lastmod>2012-09-03T03:20:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/09/DSC_0865.jpg</image:loc>
+			<image:title><![CDATA[The Mix Reflection]]></image:title>
+			<image:caption><![CDATA[The Mix Reflection]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/09/DSC_0690.jpg</image:loc>
+			<image:title><![CDATA[LOVE at the Mirage ]]></image:title>
+			<image:caption><![CDATA[LOVE at the Mirage ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/09/DSC_0495.jpg</image:loc>
+			<image:title><![CDATA[Becki and John Devore ]]></image:title>
+			<image:caption><![CDATA[Becki and John Devore ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/09/DSC_0704.jpg</image:loc>
+			<image:title><![CDATA[Kohler Bathtub ]]></image:title>
+			<image:caption><![CDATA[Kohler Bathtub ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/09/DSC_0676.jpg</image:loc>
+			<image:title><![CDATA[Dustin Elevator LV]]></image:title>
+			<image:caption><![CDATA[Dustin Elevator LV]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/09/DSC_0709.jpg</image:loc>
+			<image:title><![CDATA[Tiffany THEhotel]]></image:title>
+			<image:caption><![CDATA[Tiffany THEhotel]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/09/DSC_0452.jpg</image:loc>
+			<image:title><![CDATA[Hoover Dam]]></image:title>
+			<image:caption><![CDATA[Hoover Dam]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/darkness/</loc>
+		<lastmod>2012-09-21T02:58:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/choosing-a-travel-laptop/</loc>
+		<lastmod>2012-09-30T23:01:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/summer-lovin/</loc>
+		<lastmod>2012-11-20T04:45:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0011.jpg</image:loc>
+			<image:title><![CDATA[Dustin at ASian Festival]]></image:title>
+			<image:caption><![CDATA[Dustin at Asain Festival]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/IMG_0257.jpg</image:loc>
+			<image:title><![CDATA[The Shins ]]></image:title>
+			<image:caption><![CDATA[The Shines ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/IMG_0224.jpg</image:loc>
+			<image:title><![CDATA[Sisters at Pei Wei ]]></image:title>
+			<image:caption><![CDATA[Sisters at Pei Wei]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0010.jpg</image:loc>
+			<image:title><![CDATA[Nan at the Asian Festival ]]></image:title>
+			<image:caption><![CDATA[Nan at the Asian Festival ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0044.jpg</image:loc>
+			<image:title><![CDATA[Perfromer at Asian festival ]]></image:title>
+			<image:caption><![CDATA[Performer at asian festival ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0025.jpg</image:loc>
+			<image:title><![CDATA[Bubble Tea]]></image:title>
+			<image:caption><![CDATA[Bubble Tea ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0022.jpg</image:loc>
+			<image:title><![CDATA[Cat ]]></image:title>
+			<image:caption><![CDATA[Cat ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0006.jpg</image:loc>
+			<image:title><![CDATA[Street Food ]]></image:title>
+			<image:caption><![CDATA[Street Food ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0011.jpg</image:loc>
+			<image:title><![CDATA[Dustin at ASian Festival]]></image:title>
+			<image:caption><![CDATA[Dustin at Asain Festival ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0019.jpg</image:loc>
+			<image:title><![CDATA[Chicken at the asain festival]]></image:title>
+			<image:caption><![CDATA[chicken at the assian festival ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/DSC_0054.jpg</image:loc>
+			<image:title><![CDATA[woman dancer ]]></image:title>
+			<image:caption><![CDATA[woman dancer ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/IMG_0199.jpg</image:loc>
+			<image:title><![CDATA[Huge ICe Cream MOM]]></image:title>
+			<image:caption><![CDATA[Huge Ice Cream MOM]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/IMG_0202.jpg</image:loc>
+			<image:title><![CDATA[Dustin Ice cream]]></image:title>
+			<image:caption><![CDATA[Dustin Ice Cream ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/IMG_0142.jpg</image:loc>
+			<image:title><![CDATA[Mum and Sister Summer ]]></image:title>
+			<image:caption><![CDATA[Mum and Sister Summer ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2012/11/IMG_0210.jpg</image:loc>
+			<image:title><![CDATA[Puppies Dustin]]></image:title>
+			<image:caption><![CDATA[Puppies Dustin ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/p-f-changs-tattoos-lush-love-and-friends-the-best-valentines-day-is-made-of-love/</loc>
+		<lastmod>2013-03-26T17:26:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN00441.jpg</image:loc>
+			<image:title><![CDATA[All of Us]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN00441.jpg</image:loc>
+			<image:caption><![CDATA[DSCN0044]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0051.jpg</image:loc>
+			<image:title><![CDATA[Dustin getting a compass]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0048-e1364269120359.jpg</image:loc>
+			<image:title><![CDATA[Jon's here]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0045.jpg</image:loc>
+			<image:title><![CDATA[My stencil]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0042.jpg</image:loc>
+			<image:title><![CDATA[Finished Product ]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0041.jpg</image:loc>
+			<image:title><![CDATA[Getting inked ]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0039.jpg</image:loc>
+			<image:title><![CDATA[Friends]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0038.jpg</image:loc>
+			<image:title><![CDATA[A sign ]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0036-e1364269339722.jpg</image:loc>
+			<image:title><![CDATA[Spencer]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0054.jpg</image:loc>
+			<image:title><![CDATA[Lush bath bombs]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0031.jpg</image:loc>
+			<image:title><![CDATA[V-day nails and a red bow ]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0029.jpg</image:loc>
+			<image:title><![CDATA[Coffee]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0027.jpg</image:loc>
+			<image:title><![CDATA[On the way]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/DSCN0025.jpg</image:loc>
+			<image:title><![CDATA[Dustin Driving ]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/tiffanys-top-picks-welcome-spring/</loc>
+		<lastmod>2013-03-29T03:58:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/03/0.jpg</image:loc>
+			<image:title><![CDATA[Tiffany’s Top Picks: Welcome Spring!]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/tiffanys-top-picks-baby-lips-human-trafficking-and-juice-beauty/</loc>
+		<lastmod>2013-04-12T20:16:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2013/04/0.jpg</image:loc>
+			<image:title><![CDATA[Tiffany’s Top Picks: Baby Lips, Human Trafficking, and Juice Beauty]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/getaway-frozen-falls/</loc>
+		<lastmod>2014-05-08T22:34:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/03/package-fallsviewwhirlpool-large1.jpg</image:loc>
+			<image:title><![CDATA[package-fallsviewwhirlpool-large]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/getaway-frozen-falls-sunday-monday/</loc>
+		<lastmod>2014-05-08T22:35:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/03/DSC_027711.jpg</image:loc>
+			<image:title><![CDATA[DSC_02771]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/getaway-frozen-falls-tuesday-wednesday/</loc>
+		<lastmod>2014-05-08T22:36:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/03/unnamed-32.jpg</image:loc>
+			<image:title><![CDATA[unnamed-3]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/trip-c-bus-melissa-high-school-students/</loc>
+		<lastmod>2014-05-08T22:37:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/03/unnamed-221.jpg</image:loc>
+			<image:title><![CDATA[unnamed-22]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/four-years-married-bliss-playhouse-square-cheap/</loc>
+		<lastmod>2014-10-04T02:13:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-12.jpg</image:loc>
+			<image:title><![CDATA[unnamed-12]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-12.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-12]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-20.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-20]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-19.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-19]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-13.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-13]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-27.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-27]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-15.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-15]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-17.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-17]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-26.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-26]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-16.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-16]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-24.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-24]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-21.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-21]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-22.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-22]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-25.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-25]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/celebrating-four-years-married-bliss-cleveland-melt-cleveland-museum-art/</loc>
+		<lastmod>2014-10-04T02:14:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-5.jpg</image:loc>
+			<image:title><![CDATA[unnamed-5]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-5.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-5]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-1.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed.jpg</image:loc>
+			<image:caption><![CDATA[unnamed]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-2.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-4.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-4]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-7.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-7]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-6.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-6]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-9.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-9]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-3.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-3]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-8.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-8]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/08/unnamed-11.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-11]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/four-years-married-bliss-rock-n-roll-hall-fame/</loc>
+		<lastmod>2014-10-04T02:44:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/photo-1.jpg</image:loc>
+			<image:title><![CDATA[photo-1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/IMG_2185.jpg</image:loc>
+			<image:caption><![CDATA[IMG_2185]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/photo-1.jpg</image:loc>
+			<image:caption><![CDATA[photo-1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/IMG_2186.jpg</image:loc>
+			<image:caption><![CDATA[IMG_2186]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://reroutedjourney.com/wooster-won-us/</loc>
+		<lastmod>2014-10-04T23:44:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-8.jpg</image:loc>
+			<image:title><![CDATA[unnamed-8]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-11.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-9.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-9]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-8.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-8]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-10.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-10]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-21.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-41.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-4]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-31.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-3]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://reroutedjourney.com/wp-content/uploads/2014/10/unnamed-5.jpg</image:loc>
+			<image:caption><![CDATA[unnamed-5]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
